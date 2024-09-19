@@ -1,0 +1,3 @@
+In this Directory Open Command prompt and Run this code --> java a.Start
+
+Be sure to use SQL file to make databases and tables.
